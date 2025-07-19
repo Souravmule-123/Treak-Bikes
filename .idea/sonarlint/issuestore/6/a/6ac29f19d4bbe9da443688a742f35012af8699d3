@@ -1,0 +1,12 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ÏªÓ¬8Í÷±åİ1
+¤
+java:S2681,"†This line will not be executed conditionally; only the first line of this 2-line block will be. The rest will execute unconditionally.(§¼Éç8Î÷±åİ1
+E	java:S108")Either remove or fill this block of code.(ï­£Ä8ÿ÷±åİ1
+H
+java:S1172."+Remove this unused method parameter "user".(Ÿœ¶8†ø±åİ1
+d
+java:S1854<"BRemove this useless assignment to local variable "encryptDecrypt".(éÀÇ¡ÿÿÿÿÿ8•’Óåİ1
+U
+java:S1481<"3Remove this unused "encryptDecrypt" local variable.(éÀÇ¡ÿÿÿÿÿ8 ’Óåİ1
+X	java:S125="<This block of commented-out lines of code should be removed.(Â£‹º8¡’Óåİ1
