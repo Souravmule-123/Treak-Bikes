@@ -1,5 +1,6 @@
 Feature: Automate relevant scenarios for Telecom Projects
 
+  @Test
   Scenario: Successfully register a new telecom customer
     Given I launch "DemoGuru" Application
     And I  enter the "UserName" and "pwd"

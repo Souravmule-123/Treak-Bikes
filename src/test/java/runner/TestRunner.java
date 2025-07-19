@@ -11,7 +11,7 @@ import org.testng.annotations.DataProvider;
         plugin = {"json:target/cucumber-reports/Cucumber.json",
                 "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
                 "rerun:test-output/failedrerun.txt"},
-        tags = ""
+        tags = "@Test"
 )
 public class TestRunner extends AbstractTestNGCucumberTests {
     @Override
