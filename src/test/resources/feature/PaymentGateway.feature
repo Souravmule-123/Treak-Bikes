@@ -1,6 +1,6 @@
 Feature: Verify Payment Gateway Functionality
 
-  Scenario: Successful payment using valid card details
+  Scenario: Successful payment using valid card detail
     Given I launch "DemoGuru" Application
     And I click on "Payment GateWay Project"
     Then I Add a Quantity of Mother Elephant With Babies Soft Toy
